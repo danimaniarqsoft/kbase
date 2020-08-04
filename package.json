@@ -22,7 +22,7 @@
     "date-fns": "2.0.0-beta.2",
     "element-ui": "^2.13.2",
     "jslint": "^0.12.1",
-    "swagger-ui": "2.2.10",
+    "swagger-ui": "3.23.11",
     "tiptap": "^1.29.1",
     "vue": "2.6.11",
     "vue-class-component": "7.0.2",
